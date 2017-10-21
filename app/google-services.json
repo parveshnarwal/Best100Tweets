@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132838840769",
+    "firebase_url": "https://best100tweets.firebaseio.com",
+    "project_id": "best100tweets",
+    "storage_bucket": "best100tweets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132838840769:android:e870262d0c75f017",
+        "android_client_info": {
+          "package_name": "com.narwal.parvesh.best100tweetsandstatustogainfollowers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132838840769-d12dli2n3775i1va9ff8mq4s5gbd1plu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.narwal.parvesh.best100tweetsandstatustogainfollowers",
+            "certificate_hash": "5b5e4d3e7f3f25a97e4e72525a9b23e6c41dd774"
+          }
+        },
+        {
+          "client_id": "132838840769-a3c5bgqnep0caegcpmnrqrg0oe2gt5cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OAnwr23ZaEH103PD85Ej09ZZWUJpgO0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132838840769-a3c5bgqnep0caegcpmnrqrg0oe2gt5cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

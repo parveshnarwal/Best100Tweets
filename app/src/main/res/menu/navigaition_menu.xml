@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menuId">
+        <item android:title="New Tweets" android:icon="@mipmap/ic_fiber_new_black_24dp" android:id="@+id/newtweets"/>
+        <item android:title="Funny Tweets" android:icon="@mipmap/ic_insert_emoticon_black_24dp" android:id="@+id/funny"/>
+        <item android:title="Cute Tweets" android:icon="@mipmap/ic_favorite_black_24dp" android:id="@+id/cute"/>
+        <item android:title="Quotes Tweets" android:icon="@mipmap/ic_format_quote_black_24dp" android:id="@+id/quotes"/>
+        <item android:title="Romantic Tweets" android:icon="@mipmap/ic_wc_black_24dp" android:id="@+id/romantic"/>
+        <item android:title="Flirty Tweets" android:icon="@mipmap/ic_face_black_24dp" android:id="@+id/flirty"/>
+        <item android:title="Confused Tweets" android:icon="@mipmap/ic_mood_bad_black_24dp" android:id="@+id/confused"/>
+        <item android:title="Share Your Tweets" android:icon="@mipmap/ic_share_black_24dp" android:id="@+id/shareyourtweet"/>
+
+    </group>
+</menu>
